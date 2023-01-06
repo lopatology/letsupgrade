@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#textOnTop {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+}
